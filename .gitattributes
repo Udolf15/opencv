@@ -9,7 +9,7 @@
 *.cl           text
 *.conf         text
 *.cpp          text
-*.css_t        text
+*.css_t        texts
 *.cu           text
 *.cxx          text
 *.def          text
